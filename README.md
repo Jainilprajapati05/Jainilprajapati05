@@ -52,7 +52,7 @@ I'm an IT engineering student passionate about building modern and interactive w
 ## 📈 Contributions Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JK-1205&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jainilprajapati05&theme=github-compact&hide_border=true" />
 </div>
 
 ---
@@ -60,7 +60,7 @@ I'm an IT engineering student passionate about building modern and interactive w
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JK-1205&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jainilprajapati05&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
 ---
