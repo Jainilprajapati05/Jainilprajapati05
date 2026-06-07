@@ -44,7 +44,7 @@ I'm an IT engineering student passionate about building modern and interactive w
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JK-1205&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainilprajapati05&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200"/>
 </div>
 
 ---
