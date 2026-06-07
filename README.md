@@ -36,16 +36,13 @@ I'm an IT engineering student passionate about building modern and interactive w
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=JK-1205&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" height="200"/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=JK-1205&theme=chartreuse-dark&hide_border=false" height="200"/>
-  </div>
+<p align="center">
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jainilprajapati05&theme=chartreuse-dark" height="180"/>
+</p>
 
-  <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainilprajapati05&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200"/>
-</div>
+</p>
 
 ---
 
@@ -57,11 +54,6 @@ I'm an IT engineering student passionate about building modern and interactive w
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jainilprajapati05&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
 
 ---
 
